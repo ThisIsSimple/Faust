@@ -7,7 +7,7 @@
 
 # Download
 ---
-[다운로드 링크](https://drive.google.com/drive/folders/1QVdqLMVDpSpsenZ58d9ATZcCI73wW0_8?usp=sharing)
+[다운로드 링크](https://drive.google.com/file/d/1TISZnSBQCR10H0GmYf9o2XNdADjw3r_E/view?usp=sharing)
 압축 해제 후 'PxDesginGame.exe' 실행
 
 # How To
@@ -17,4 +17,5 @@
 
 # History
 ---
-1. Release v0.1 - [Download](https://drive.google.com/drive/folders/1QVdqLMVDpSpsenZ58d9ATZcCI73wW0_8?usp=sharing)
+1. Release v0.1 (2020-12-08) - [Download](https://drive.google.com/drive/folders/1QVdqLMVDpSpsenZ58d9ATZcCI73wW0_8?usp=sharing)
+2. Release v0.2 (2020-12-15) - [Download](https://drive.google.com/file/d/1TISZnSBQCR10H0GmYf9o2XNdADjw3r_E/view?usp=sharing)
